@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Mustafa Haider",
+    "occupation": "JAVASCRIPT DEVELOPER",
+    "description": "I eat, sleep and breathe React",
+    "image": "",
+    "bio": "Hi! this is Mustafa Haider, Senior Front-end web developer. I have being doing Frond-end developing for the last three years. I used to work for one of the biggest Software Company(SoftTech) as a Senior web developer. Now I help bussiness directly. Languages I'm expert in HTML, CSS, JAVASCRIPT, REACT JS, React-Redux, NextJS.My sevices and me are excited to reach your goals.",
+    "contactmessage": "Get in touch with me to learn something new this year!",
+    "email": "mustafahaider508@gmail.com",
+    "phone": "+92 3150969602",
+    "address": {
+      "street": "University Road,Peshawar",
+      "city": "Peshawar",
+      "state": "Paskistan",
+      "zip": "2500"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "CECOS University of IT and Emerging Sciences",
+        "degree": "Bachelor's Degree, Software Engineering",
+        "graduated": "July 2023",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Freelancing",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mustafa is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Salman Ali"
+      },
+      {
+        "text": "Learning with Mustafa has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
